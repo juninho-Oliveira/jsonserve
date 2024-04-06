@@ -1,18 +1,23 @@
 {
-  "series": [
+  "Usuario": [
     {
-      "numTemporada": "5",
-      "nomeSeries": "House",
-      "nomeEstudio": "Max",
-      "anoLancamento": "2012",
+      "NomeUsuario": "5",
+      "IdadeUsuario": "House",
+      "EnderecoUsuario": "Max",
+      "EmailUsuario": "2012",
+      "TelefoneUsuario": "11985615859",
       "id": "609f"
-    },
+    }
+  ],
+
+  "Livros": [
     {
-      "numTemporada": "5",
-      "nomeSeries": "nome",
-      "nomeEstudio": "hbo",
-      "anoLancamento": "2024",
-      "id": "9f34"
+      "NomeLivro": "5",
+      "AutorLivro": "House",
+      "BiografiaLivro": "Max",
+      "EdicaoLivro": "2012",
+      "EditoraLivro": "EditoraLivro",
+      "id": "609f"
     }
   ]
 }
